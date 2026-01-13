@@ -1,5 +1,6 @@
 com/logistics/optimizer/model/Order.class
 com/logistics/optimizer/controller/OptimizerController.class
+com/logistics/optimizer/controller/ViewController.class
 com/logistics/optimizer/model/OptimizationResponse.class
 com/logistics/optimizer/model/OptimizationRequest.class
 com/logistics/optimizer/LoadOptimizerApplication.class
