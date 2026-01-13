@@ -1,0 +1,7 @@
+com/logistics/optimizer/model/Order.class
+com/logistics/optimizer/controller/OptimizerController.class
+com/logistics/optimizer/model/OptimizationResponse.class
+com/logistics/optimizer/model/OptimizationRequest.class
+com/logistics/optimizer/LoadOptimizerApplication.class
+com/logistics/optimizer/model/Truck.class
+com/logistics/optimizer/service/LoadOptimizerService.class
